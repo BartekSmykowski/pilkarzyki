@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pilkarzyki.iml" filepath="$PROJECT_DIR$/.idea/modules/pilkarzyki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pilkarzyki_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pilkarzyki_main.iml" group="pilkarzyki" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pilkarzyki_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pilkarzyki_test.iml" group="pilkarzyki" />
+    </modules>
+  </component>
+</project>
